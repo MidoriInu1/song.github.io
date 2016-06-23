@@ -35,13 +35,6 @@
 + 唠叨：16年为所在项目组制作的圆形弹出菜单，由于在此公司签订了竞业保密协议，所有代码并不归我个人所有，且动画耦合度较高，会考虑完全重写一次并开放。
 + 预计上传代码时间：无
 
-#####Private-Demo—zm_2
-![image](https://github.com/MidoriInu1/song.github.io/blob/master/res/demo_zhaomu_2.gif)   
-
-+ 描述：fork自[https://github.com/misakuo/3dTagCloudAndroid](https://github.com/misakuo/3dTagCloudAndroid)
-+ 所属项目：某公司
-+ 唠叨：16年为所在项目组制作的球形旋转关键词控件，fork自[https://github.com/misakuo/3dTagCloudAndroid](https://github.com/misakuo/3dTagCloudAndroid)，修改了部分实现，以解决子View设置背景色后会出现Z轴显示错误的问题，已向原项目提出建议。
-+ 预计上传代码时间：已像原项目提出建议
 
 #####Private-Demo—zm_2
 ![image](https://github.com/MidoriInu1/song.github.io/blob/master/res/demo_zhaomu_2.gif)   
